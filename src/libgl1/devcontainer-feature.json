@@ -1,0 +1,6 @@
+{
+  "name": "Add libgl1 to Ubuntu/Debian devcontainers",
+  "id": "libgl1",
+  "version": "1.0.0",
+  "description": "A feature to add libgl1 to the devcontainer"
+}
